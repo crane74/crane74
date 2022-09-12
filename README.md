@@ -6,6 +6,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=crane74&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+### Github運用ルール
+- 平日には基本的に１コミット以上する(毎日何かしらの勉強・開発を行う)
+- デフォルトブランチはdevelop。mainブランチはマージするだけのブランチとし、保護ブランチとしておく
+- マージしたブランチは削除
 
 <!--
 **crane74/crane74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
