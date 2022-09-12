@@ -8,8 +8,17 @@
 
 ### Github運用ルール
 - 平日には基本的に１コミット以上する(毎日何かしらの勉強・開発を行う)
-- デフォルトブランチはdevelop。mainブランチはマージするだけのブランチとし、保護ブランチとしておく
+- デフォルトブランチはdevelop。mainブランチはマージされるだけのブランチとし、保護ブランチとしておく
 - マージしたブランチは削除
+- コミットメッセージにはプレフィックスをつける(例. feat: xxx という機能を追加　fix: yyy で発生するバグを修正)
+  - feat: 新しい機能
+  - fix: バグの修正
+  - docs: ドキュメントのみの変更
+  - style: 空白、フォーマット、セミコロン追加など
+  - refactor: 仕様に影響がないコード改善(リファクタ)
+  - perf: パフォーマンス向上関連
+  - test: テスト関連
+  - chore: ビルド、補助ツール、ライブラリ関連
 
 <!--
 **crane74/crane74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
