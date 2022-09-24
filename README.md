@@ -20,6 +20,21 @@
   - test: テスト関連
   - chore: ビルド、補助ツール、ライブラリ関連
 
+#### 技術スタック(使用したことがある、興味のあるもの)
+- Javascript,Typescript[最近はTypescriptで開発]
+- Vue.js(NuxtJS),React(NextJS)[最近はReactの方が多い]
+- Nodejs(NestJS)
+- PHP, C++ , C# , Python , Go , Rustなどの言語
+- ROS(Robot Operation System)
+- Linux
+- Docker 
+- MySQL , MongoDB
+
+#### 今後勉強を進めていきたいこと
+- Typesciptによるプロダクト開発
+- Rustの勉強
+- AWS
+
 <!--
 **crane74/crane74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
