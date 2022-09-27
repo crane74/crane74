@@ -27,7 +27,7 @@
 - PHP, C++ , C# , Python , Go , Rustなどの言語
 - ROS(Robot Operation System)
 - Linux
-- Docker 
+- Docker Singularity
 - MySQL , MongoDB
 
 #### 今後勉強を進めていきたいこと
