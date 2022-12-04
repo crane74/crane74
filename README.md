@@ -21,13 +21,13 @@
   - chore: ビルド、補助ツール、ライブラリ関連
 
 #### 技術スタック(使用したことがある、興味のあるもの)
-- Javascript,Typescript[最近はTypescriptで開発]
-- Vue.js(NuxtJS),React(NextJS)[最近はReactの方が多い]
+- Javascript,Typescript
+- Vue.js(NuxtJS),React(NextJS)
 - Nodejs(NestJS)
 - PHP, C++ , C# , Python , Go , Rustなどの言語
 - ROS(Robot Operation System)
 - Linux
-- Docker Singularity
+- Docker , Singularity
 - MySQL , MongoDB
 - Unity , UnrealEngine , Twinmotion
 
